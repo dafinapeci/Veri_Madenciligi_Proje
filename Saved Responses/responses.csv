@@ -1,0 +1,4 @@
+timestamp,age,male,female,self_employed,family_history,work_interfere,no_employees,remote_work,tech_company,benefits,care_options,wellness_program,seek_help,anonymity,leave,mental_health_consequence,coworkers,supervisor,obs_consequence,predicted_probability
+2026-05-05 12:31:49,25,0,1,0,0,Rarely,6_25,0,1,Don't know,No,No,No,Don't know,Don't know,Maybe,No,No,No,0.42
+2026-05-05 12:33:48,22,1,0,0,0,Sometimes,26_100,1,1,Don't know,No,No,No,Don't know,Don't know,Maybe,No,No,No,0.6007
+2026-05-10 19:34:44,28,1,0,0,1,Never,1_5,1,1,Yes,Yes,Yes,Yes,Yes,Very easy,Yes,Yes,Yes,Yes,0.6054
